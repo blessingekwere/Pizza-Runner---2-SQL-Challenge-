@@ -6,4 +6,4 @@ With a dream to secure seed funding and expand his Pizza Empire, Danny realized 
 
 Join Danny on his journey as he dives into the data of Pizza Runner. Through careful analysis, he aims to uncover valuable insights that will drive strategic decisions, optimize operations, and propel Pizza Runner to even greater heights. Stay tuned to witness the data-driven success story of Danny Ma and his Pizza Runner venture! Let's go💪🏃
 
-* [Data Cleaning]()
+* [Data Cleaning](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Data%20Cleaning.md)
