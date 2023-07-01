@@ -8,7 +8,7 @@ With a dream to secure seed funding and expand his Pizza Empire, Danny realized 
 
 Join Danny on his journey as he dives into the data of Pizza Runner. Through careful analysis, he aims to uncover valuable insights that will drive strategic decisions, optimize operations, and propel Pizza Runner to even greater heights. Stay tuned to witness the data-driven success story of Danny Ma and his Pizza Runner venture! Let's go💪🏃
 
-**This is the second challenge on the 8 week SQL challenge by Danny Ma. Click [here](https://8weeksqlchallenge.com/) to access the complete material concerning this challenge** 
+* *Please note that this is the second challenge on the 8 week SQL challenge by Danny Ma. Click [here](https://8weeksqlchallenge.com/) to access the complete material concerning this challenge*
 
 ### ER Diagram
 Because Danny had a few years of experience as a data scientist - he was very aware that data collection was going to be critical for his business’ growth.
@@ -62,11 +62,19 @@ The Pizza_Toppings table lists all the available toppings with their correspondi
 * topping_id: Unique identifier for each topping.
 * topping_name: Name of the topping.
 
+*To access the query for creating the tables with the inputted values, simply click [here](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Creating%20tables%20and%20inputting%20the%20values%20in%20the%20db.md).*
 
+### Skills Demonstrated
+Skills demonstrated in the Pizza Runner analysis using SQL Server include:
 
+* SQL Querying
+* Data Analysis
+* Joins and Relational Operations
+* Data Aggregation
+* Data Visualization
+* Performance Optimization
+* Data Integrity and Validation
+* Problem Solving
 
-
-
-
-
+### Case Study
 * [Data Cleaning](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Data%20Cleaning.md)
