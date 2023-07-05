@@ -78,3 +78,5 @@ Skills demonstrated in the Pizza Runner analysis using SQL Server include:
 
 ### Case Study
 * [Data Cleaning](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Data%20Cleaning.md)
+
+* [Pizza Metrics](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Pizza%20Metrics.md)
