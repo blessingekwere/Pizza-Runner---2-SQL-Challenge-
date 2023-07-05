@@ -68,11 +68,8 @@ The Pizza_Toppings table lists all the available toppings with their correspondi
 Skills demonstrated in the Pizza Runner analysis using SQL Server include:
 
 * SQL Querying
-* Data Analysis
 * Joins and Relational Operations
 * Data Aggregation
-* Data Visualization
-* Performance Optimization
 * Data Integrity and Validation
 * Problem Solving
 
