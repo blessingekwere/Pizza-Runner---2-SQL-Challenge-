@@ -84,6 +84,65 @@ Skills demonstrated in the Pizza Runner analysis using SQL Server include:
 
 * [Pricing and Ratings ](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Pricing%20and%20Ratings.md)
 
+### Insights
+The following insights were generated from the analysis
+
+* A total of 14 orders were placed by 10 distinct customers.
+  
+* Runner 1 had the highest number of successful deliveries, completing 4 orders. This indicates their efficiency and activity compared to the other runners.
+  
+* MeatLovers pizzas were more popular, with 9 delivered, while Vegetarian pizzas had 3 deliveries.
+  
+* Only one pizza had both extra toppings and exclusions specified, suggesting customers typically choose one customization option over the other.
+  
+* Saturdays and Wednesdays had the most orders, while Fridays had the least.
+  
+* Week one had the highest number of runner sign-ups, with 2 joining the platform.
+  
+* There is a positive relationship between average delivery time and pizza quantity, meaning larger orders tend to take longer to deliver.
+  
+* Customer 105 has the highest average distance traveled, indicating their delivery locations are farther from the pizza store compared to other customers.
+  
+* Runner 2 is the fastest rider.
+  
+* Runner 1 has the highest delivery rate.
+  
+* Bacon is the most commonly added extra, while Cheese is the most common exclusion.
+  
+* Mushrooms and Bacon are the most frequently used ingredients.
+  
+* The restaurant generated a total revenue of $138.
+  
+* Pizza Runner has a total of $94.44 after paying the riders.
+
+### Recommendation
+
+Based on the insights gained from the analysis, the following recommendations can be made:
+
+* Runner Performance: Recognize and reward Runner 1 for their outstanding performance in completing the highest number of successful deliveries. Consider providing incentives to motivate and retain high-performing runners.
+
+* Pizza Variety: Given the higher demand for MeatLovers pizzas compared to Vegetarian options, consider expanding the MeatLovers pizza variations and offerings to cater to customer preferences. This can help increase customer satisfaction and attract more orders.
+
+* Customization Options: Since most customers choose either extra toppings or exclusions rather than combining both in a single order, streamline the customization process by offering clear options for toppings and exclusions. This will simplify the ordering experience and reduce potential confusion.
+
+* Delivery Optimization: Analyze the order patterns to identify peak days and allocate more resources, such as runners, on Saturdays and Wednesdays when the majority of orders are placed. This will help ensure timely deliveries and enhance customer satisfaction.
+
+* Runner Recruitment: As Week one had the highest number of runner sign-ups, consider implementing targeted recruitment strategies during this period to attract more runners to the platform. Increasing the number of runners will improve delivery capacity and reduce delivery times.
+
+* Delivery Time and Order Size: Monitor the relationship between average delivery time and pizza quantity. Consider optimizing delivery logistics and processes to minimize the impact of larger orders on delivery time. Efficient routing and scheduling can help improve overall delivery speed.
+
+* Customer Satisfaction: Engage with Customer 105 to understand their specific needs and ensure their satisfaction. Provide additional support or incentives to maintain their loyalty and enhance their overall experience.
+
+* Runner Training: Leverage the expertise and efficiency of Runner 2 to train other runners and share best practices. This will help improve the overall speed and quality of deliveries across the runner team.
+
+* Ingredient Management: Based on the popularity of Bacon as an added extra and Cheese as a common exclusion, ensure sufficient stock of Bacon and offer alternative cheese options to cater to diverse customer preferences. This will prevent stock shortages and provide customers with the desired customization options.
+
+* Financial Sustainability: Maintain a balanced approach to revenue and expenses. Continuously review and optimize pricing, delivery fees, and operational costs to ensure Pizza Runner generates sustainable profits while adequately compensating runners for their services.
+
+By implementing these recommendations, Pizza Runner can enhance customer satisfaction, improve operational efficiency, and strengthen its position in the market, leading to increased profitability and long-term success.
+
 Thank you for going this project.
 
 Your thoughts, comments and recommendations will be highly appreciated🤗
+
+Kindly connect with me on [Twitter](https://twitter.com/Eddie_Gregs?t=dF3996shVxvPJTePTtxDdw&s=09) and [LinkedIn](https://www.linkedin.com/in/blessing-ekwere-857326216)
