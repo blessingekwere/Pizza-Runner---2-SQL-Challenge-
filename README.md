@@ -84,4 +84,6 @@ Skills demonstrated in the Pizza Runner analysis using SQL Server include:
 
 * [Pricing and Ratings ](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Pricing%20and%20Ratings.md)
 
-Thank you for going this project. Your thoughts, comments and recommendations will be highly appreciated🤗
+Thank you for going this project.
+
+Your thoughts, comments and recommendations will be highly appreciated🤗
