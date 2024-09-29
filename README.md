@@ -13,7 +13,7 @@ Join Danny on his journey as he dives into the data of Pizza Runner. Through car
 ### ER Diagram
 Because Danny had a few years of experience as a data scientist - he was very aware that data collection was going to be critical for his business’ growth.
 He has prepared for us an entity relationship diagram of his database design but requires further assistance to clean his data and apply some basic calculations so he can better direct his runners and optimise Pizza Runner’s operations. All datasets exist within the pizza_runner database schema 
-![](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Screenshot%20(87).png)
+![](https://github.com/blessingekwere/Pizza-Runner---2-SQL-Challenge-/blob/main/Screenshot%20(386).png)
 
 ### About the Dataset
 The dataset comprises six tables, each with its own set of columns described below:
